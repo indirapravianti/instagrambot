@@ -51,7 +51,7 @@ class InstagramBot:
                 else:
                     bot.close() 
 
-obj = InstagramBot('indirarealdeal','thankunext13')
+obj = InstagramBot('indirarealdeal','password_here')
 obj.login()
 obj.like_post('brushlettering')
 
